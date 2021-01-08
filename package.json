@@ -1,0 +1,27 @@
+{
+  "name": "js-constructor",
+  "version": "1.0.0",
+  "description": "JS Constructor",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel ./src/index.html -p 4200 --open",
+    "build": "parcel build ./src/index.html --no-source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7art/VmininJSconstructor.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "7art",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7art/VmininJSconstructor/issues"
+  },
+  "homepage": "https://github.com/7art/VmininJSconstructor#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
